@@ -1,3 +1,0 @@
-# PastTense
-
-Seen past
